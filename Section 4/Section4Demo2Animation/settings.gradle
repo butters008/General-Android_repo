@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Section4Demo2-Animation"
