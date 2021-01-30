@@ -1,0 +1,9 @@
+1. Go in C[Main] drive
+2. Go to Users
+3. Pick your username
+
+Paste in the rest of the address:
+\AppData\Roaming\Google\AndroidStudio4.1\
+Replace contents within folder
+
+-Hope this works!

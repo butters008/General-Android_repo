@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="ColorChooser.RecentColors" value="196-182-23-255,,,39-188-0-255,,,54-185-198-255,,,54-110-198-255,,,241-148-27-255,,,97-228-0-255" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="SAVED_ANDROID_NPW_ASKED_LANGUAGE" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SAVED_RENDER_LANGUAGE" value="Java" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="export.settings.path" value="C:\Users\kbutt\AppData\Roaming\Google\AndroidStudio4.1\settings.zip  " />
+    <property name="file.gist.reindex.count" value="4" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-Studio4.1-5" />
+    <property name="kotlin-gradle-user-dirs" value="C:\Users\kbutt\.gradle" />
+    <property name="kotlin.lastUpdateCheck" value="1611266456795" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.72-release-Studio4.1-5:2020-06-17" />
+    <property name="lastSeenTip" value="Kotlin.html" />
+    <property name="lastTimeTipsWereShown" value="1612041053966" />
+    <property name="seenTips" value="Kotlin_mix.html,Kotlin.html" />
+    <property name="selected.color.option.type" value="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

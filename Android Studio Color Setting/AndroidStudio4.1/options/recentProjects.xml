@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Test">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1nOg7D9Vz2EqU0i9lfsdnfCzKQw">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-201.8743.12.41.7042882" />
+              <option name="buildTimestamp" value="1608424750204" />
+              <frame x="85" y="25" width="1750" height="980" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1611266538524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MoneyTimelineApp">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1nOgR1ob1UsIg2QZJqxWnCHCcgF">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-201.8743.12.41.7042882" />
+              <option name="buildTimestamp" value="1608424776088" />
+              <frame x="68" y="20" width="1400" height="784" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1612041043605" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/MoneyTimelineApp" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Test" />
+      </list>
+    </option>
+  </component>
+</application>

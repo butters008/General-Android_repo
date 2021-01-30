@@ -1,0 +1,87 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="ConfigureIcs">
+        <ActionSummary times="1" last="1611266767372" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="90" last="1611344006635" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="6" last="1611343607198" />
+      </entry>
+      <entry key="EditorDeleteToWordEnd">
+        <ActionSummary times="1" last="1611266698430" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="60" last="1611343944016" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="29" last="1611344005649" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="31" last="1611343944629" />
+      </entry>
+      <entry key="EditorNextWordWithSelection">
+        <ActionSummary times="1" last="1611266659698" />
+      </entry>
+      <entry key="EditorPreviousWord">
+        <ActionSummary times="5" last="1611343567443" />
+      </entry>
+      <entry key="EditorPreviousWordWithSelection">
+        <ActionSummary times="14" last="1611266659245" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="7" last="1611343584297" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="1" last="1611266673174" />
+      </entry>
+      <entry key="EditorToggleInsertState">
+        <ActionSummary times="4" last="1611266707654" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="42" last="1611343925860" />
+      </entry>
+      <entry key="Generate">
+        <ActionSummary times="2" last="1611343666625" />
+      </entry>
+      <entry key="GenerateGetterAndSetter">
+        <ActionSummary times="2" last="1611343669803" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="1" last="1611343394281" />
+      </entry>
+      <entry key="NewProject">
+        <ActionSummary times="1" last="1611266492450" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="1" last="1611536307650" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="2" last="1611266635535" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="3" last="1611266592724" />
+      </entry>
+      <entry key="ShowProjectStructureSettings">
+        <ActionSummary times="1" last="1611266781444" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1611266789631" />
+      </entry>
+      <entry key="ToggleBookmark">
+        <ActionSummary times="8" last="1611536298625" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1611266365794" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
+        <ActionSummary times="1" last="1611536350316" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="2" last="1611266393989" />
+      </entry>
+    </data>
+  </component>
+</application>
