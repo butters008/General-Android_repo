@@ -1,47 +1,83 @@
 <application>
   <component name="ActionsLocalSummary">
     <data>
+      <entry key="$Undo">
+        <ActionSummary times="2" last="1612042682302" />
+      </entry>
       <entry key="ConfigureIcs">
         <ActionSummary times="1" last="1611266767372" />
       </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="90" last="1611344006635" />
+        <ActionSummary times="121" last="1612043453533" />
       </entry>
       <entry key="EditorChooseLookupItem">
-        <ActionSummary times="6" last="1611343607198" />
+        <ActionSummary times="11" last="1612043456230" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="2" last="1612043158995" />
       </entry>
       <entry key="EditorDeleteToWordEnd">
         <ActionSummary times="1" last="1611266698430" />
       </entry>
       <entry key="EditorDown">
-        <ActionSummary times="60" last="1611343944016" />
+        <ActionSummary times="141" last="1612043455815" />
+      </entry>
+      <entry key="EditorDownWithSelection">
+        <ActionSummary times="4" last="1612043162820" />
       </entry>
       <entry key="EditorEnter">
-        <ActionSummary times="29" last="1611344005649" />
+        <ActionSummary times="38" last="1612043451963" />
+      </entry>
+      <entry key="EditorIndentSelection">
+        <ActionSummary times="1" last="1612042679608" />
       </entry>
       <entry key="EditorLeft">
-        <ActionSummary times="31" last="1611343944629" />
+        <ActionSummary times="72" last="1612043203587" />
+      </entry>
+      <entry key="EditorLeftWithSelection">
+        <ActionSummary times="5" last="1612043158193" />
       </entry>
       <entry key="EditorNextWordWithSelection">
         <ActionSummary times="1" last="1611266659698" />
       </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="5" last="1612043272751" />
+      </entry>
       <entry key="EditorPreviousWord">
-        <ActionSummary times="5" last="1611343567443" />
+        <ActionSummary times="12" last="1612043156819" />
       </entry>
       <entry key="EditorPreviousWordWithSelection">
         <ActionSummary times="14" last="1611266659245" />
       </entry>
       <entry key="EditorRight">
-        <ActionSummary times="7" last="1611343584297" />
+        <ActionSummary times="36" last="1612043206899" />
       </entry>
       <entry key="EditorTab">
-        <ActionSummary times="1" last="1611266673174" />
+        <ActionSummary times="3" last="1612043090221" />
       </entry>
       <entry key="EditorToggleInsertState">
         <ActionSummary times="4" last="1611266707654" />
       </entry>
       <entry key="EditorUp">
-        <ActionSummary times="42" last="1611343925860" />
+        <ActionSummary times="116" last="1612043204926" />
+      </entry>
+      <entry key="ExportSettings">
+        <ActionSummary times="3" last="1612041359409" />
+      </entry>
+      <entry key="FileChooser.GotoDesktop">
+        <ActionSummary times="2" last="1612041148238" />
+      </entry>
+      <entry key="FileChooser.GotoHome">
+        <ActionSummary times="2" last="1612041133932" />
+      </entry>
+      <entry key="FileChooser.GotoProject">
+        <ActionSummary times="2" last="1612041141810" />
+      </entry>
+      <entry key="FileChooser.NewFolder">
+        <ActionSummary times="2" last="1612041097197" />
+      </entry>
+      <entry key="FileChooser.Refresh">
+        <ActionSummary times="2" last="1612041131930" />
       </entry>
       <entry key="Generate">
         <ActionSummary times="2" last="1611343666625" />
@@ -59,7 +95,7 @@
         <ActionSummary times="1" last="1611536307650" />
       </entry>
       <entry key="SaveAll">
-        <ActionSummary times="2" last="1611266635535" />
+        <ActionSummary times="3" last="1612043468002" />
       </entry>
       <entry key="ShowIntentionActions">
         <ActionSummary times="3" last="1611266592724" />
@@ -68,7 +104,7 @@
         <ActionSummary times="1" last="1611266781444" />
       </entry>
       <entry key="ShowSettings">
-        <ActionSummary times="1" last="1611266789631" />
+        <ActionSummary times="4" last="1612043390163" />
       </entry>
       <entry key="ToggleBookmark">
         <ActionSummary times="8" last="1611536298625" />

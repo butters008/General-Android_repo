@@ -20,7 +20,7 @@
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V5" value="true" />
-    <property name="ColorChooser.RecentColors" value="196-182-23-255,,,39-188-0-255,,,54-185-198-255,,,54-110-198-255,,,241-148-27-255,,,97-228-0-255" />
+    <property name="ColorChooser.RecentColors" value="196-182-23-255,,,39-188-0-255,,,54-185-198-255,,,54-110-198-255,,,241-148-27-255,,,97-228-0-255,,,198-0-128-255,,,250-218-0-255,,,186-107-136-255,,,152-118-170-255,,,160-116-93-255,,,223-195-255-255" />
     <property name="Default.SavedEditorTheme" value="_@user_Default" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -43,7 +43,7 @@
     <property name="lastSeenTip" value="Kotlin.html" />
     <property name="lastTimeTipsWereShown" value="1612041053966" />
     <property name="seenTips" value="Kotlin_mix.html,Kotlin.html" />
-    <property name="selected.color.option.type" value="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES" />
+    <property name="selected.color.option.type" value="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
 </application>
