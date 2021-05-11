@@ -1,0 +1,2 @@
+rootProject.name = "Seciton5_EggTimer"
+include ':app'
