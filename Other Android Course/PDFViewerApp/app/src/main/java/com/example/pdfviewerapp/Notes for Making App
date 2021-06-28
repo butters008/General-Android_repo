@@ -1,0 +1,7 @@
+Notes for making this app
+-------------------------
+
+1) Add a implementation into gradle(Module - app) file
+  - implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
+
+2) Add XML code to activity_main.xml
