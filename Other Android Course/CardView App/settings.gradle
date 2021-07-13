@@ -1,0 +1,2 @@
+rootProject.name = "CardViewApp"
+include ':app'
